@@ -1,2 +1,2 @@
 # MyShinyApp
-runGitHub( "MyShinyApp", "jrojas6")
+https://jessica-rojas.shinyapps.io/finalproject/
